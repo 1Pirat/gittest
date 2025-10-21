@@ -1,2 +1,3 @@
 # gittest
-Testing repository
+Тестовый репозиторий
+Дополнительный тест.
